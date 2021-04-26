@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @hiagodonha
-- 👀 I’m interested in java, javascript and their respective frameworks. 
-- 🌱 I am currently learning java, javascript and data structure
+- 👋 Hi, I’m @hiagodonha i stud science of computer and i’m interested in java, javascript and their respective frameworks. 
+Also currently learning algorithms and data structure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 - LINKEDIN: https://www.linkedin.com/in/hiago-donha-356aa8139/
