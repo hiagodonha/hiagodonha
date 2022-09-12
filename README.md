@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @hiagodonha i study science of computer and i’m interested in java, javascript 
+ 👋 Hi, I’m @hiagodonha i study science of computer and i’m interested in java, javascript 
   and their respective frameworks. I'm also currently learning algorithms and data structure
   
-- I’m looking to collaborate on web and mobile projects
-- 
-- How to reach me: 
+  I’m looking to collaborate on web and mobile projects
+
+  How to reach me: 
     LINKEDIN: https://www.linkedin.com/in/hiago-donha-356aa8139/
     EMAIL: hiagodefenix@gmail.com 
 
